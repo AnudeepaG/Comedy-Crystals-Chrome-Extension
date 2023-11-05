@@ -1,0 +1,14 @@
+{
+    "name":"Comic Crystals",
+    "version":"1.0.0",
+    "manifest_version":3,
+    "description": "Unleash Laughter!!",
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"logo.PNG"
+    },
+    "icons":{
+        "128":"logo.PNG"
+    },
+    "permissions":["activeTab"]   
+}
